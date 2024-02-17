@@ -6,6 +6,21 @@
 
   
 <h2> Technologies I like to work with ❤️</h2>
+<p align="center">🌐 Web development skills 🌐<br></p>
+👉 Front-end<br>
+✔ React.js ✔ Redux ✔ Next.js ✔ Angular.js ✔ Vue.js ✔ TailwindCSS ✔ Material UI ✔ Wire-frames ✔ Bootstrap 4/5 ✔ SASS ✔ SCSS ✔ HTML 5 ✔ CSS 3 ✔ LESS ✔<br>
+👉 Back-end<br>
+✔ Node.js ✔ Express.js ✔ Laravel ✔ PHP ✔ Python ✔ Django ✔ CodeIgniter<br>
+👉 Database<br>
+✔ MySQL ✔ MongoDB ✔ PostgreSQL ✔ Redis<br>
+👉 Blockchain<br>
+✔ Ethereum ✔ Solana <br>
+👉 Other<br>
+✔ Git ✔ Slack ✔ Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB) ✔ Firebase ✔ Heroku ✔ Trello ✔ Jira<br><br>
+
+<p align="center">📶 Mobile development skills 📶<br></p>
+ ✔ Android ✔ iOS ✔ iPad ✔ Flutter ✔ Dart ✔ React Native ✔ SQLite ✔ Firebase<br><br>
+</p>
  <table width="100% height="100%" align="center">
    <tr>
       <td>

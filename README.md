@@ -2,18 +2,7 @@
 
 
 <h4>Hi I am Bluepine 💇‍♂️ , a passoniate Mobile | Web Software developer | Web3 developer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
-
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=bluepinepcs&theme=radical&show_icons=true&count_private=true&hide=prs) </td> 
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluepinepcs&theme=radical&layout=compact)](https://github.com/bluepinepcs810) </td>
-   </tr>
-  </table>
-  
-
-
 
   
 <h2> Technologies I like to work with ❤️</h2>

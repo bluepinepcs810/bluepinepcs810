@@ -73,7 +73,7 @@
 
 
 
-[![Amaury`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bluepinepcs&theme=github-compact)](https://github.com/bluepinepcs/github-readme-activity-graph)
+[![Amaury`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bluepinepcs810&theme=github-compact)](https://github.com/bluepinepcs810/github-readme-activity-graph)
 
 
  

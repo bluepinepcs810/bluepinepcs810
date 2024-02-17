@@ -73,7 +73,7 @@
 
 
 
-[![Amaury`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bluepinepcs810&theme=github-compact)](https://github.com/bluepinepcs810/github-readme-activity-graph)
+[![Bluepine`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bluepinepcs810&theme=github-compact)](https://github.com/bluepinepcs810/github-readme-activity-graph)
 
 
  
@@ -94,11 +94,11 @@
 -->
 <br>
 <br>
- ###
+
  ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares90125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=bluepinepcs810&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bluepinepcs810&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 ## Let's colab 🚀
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!

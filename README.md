@@ -77,10 +77,10 @@
        <img alt="slack" height=64px src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
      </td> 
      <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg">
+       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
      </td>
      <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/solana/solana-original.svg">
+       <img alt="solana" height=64px src="https://github.com/devicons/devicon/blob/master/icons/solana/solana-original.svg">
      </td> 
    </tr>
 

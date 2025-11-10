@@ -1,7 +1,7 @@
 <h3 align ="center"> <strong> Senior Full Stack Developer & Web3 Developer </strong> </h3>
 
 
-<h4>Hi I am Bluepine 💇‍♂️ , a passoniate Mobile | Web Software developer | Web3 developer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework, Solana Blockchain. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Bluepine 💇‍♂️ , a passoniate Mobile | Web Software developer | Web3 developer<br/>I am a Self-taught software Developer. I have a profound knowledge in Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework, Solana Blockchain. I love to work with new Technologies and like to learn new things everytime .<h4>
   
 
   
